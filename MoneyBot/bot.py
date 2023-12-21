@@ -1,7 +1,7 @@
 import requests
 
 # токен бота
-TOKEN = '6774099539:AAF6lMvwNFbPf_c8Hp9K2GfIdAMMFc7qW4Y'
+TOKEN = ''
 
 # базовый URL API Telegram
 BASE_URL = f"https://api.telegram.org/bot{TOKEN}/"
